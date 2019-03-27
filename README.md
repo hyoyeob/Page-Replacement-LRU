@@ -12,8 +12,6 @@ that are ‘aaa’ for 1, ‘bbb’ for 2, ‘ccc’ for 3 etc.
 There is not a input file.<br>
 
 
-| 항목 1 | 항목 2 | 항목 3 | 항목 4 |
-
 $&gt; page_replacement &lt;enter&gt;<br>
  1. Insert<br>
  2. Show<br>
@@ -49,11 +47,11 @@ Enter page no between 1to10: 1<br><br>
 
  Enter Your Choice: 2<br><br>
 
- |Contain|Pageno|Pagecount|
- -----------------------
- |bbb|2|1|
- |ccc|3|1|
- |aaa|1|2|
+|Contain|Pageno|Pagecount|
+-----------------------
+|bbb|2|1|
+|ccc|3|1|
+|aaa|1|2|
 
  1. Insert<br>
  2. Show<br>
