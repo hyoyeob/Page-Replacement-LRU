@@ -1,4 +1,4 @@
-# Page-Replacement-OS-with-C
+# Page-Replacement-LRU with OS
 Operating System with C Language
 
 **<h2>Page Replacement Algorithm</h2>**
