@@ -17,7 +17,6 @@ $&gt; page_replacement &lt;enter&gt;<br>
  2. Show<br>
  3. Exit<br>
  Enter Your Choice: 1<br><br>
-
 Enter page no between 1to10: 1<br><br>
 
  1. Insert<br>
