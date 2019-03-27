@@ -24,21 +24,18 @@ Enter page no between 1to10: 1<br><br>
  2. Show<br>
  3. Exit<br>
  Enter Your Choice: 1<br><br>
-
 Enter page no between 1to10: 2<br><br>
 
  1. Insert<br>
  2. Show<br>
  3. Exit<br>
  Enter Your Choice: 1<br><br>
-
 Enter page no between 1to10: 3<br><br>
 
  1. Insert<br>
  2. Show<br>
  3. Exit<br>
  Enter Your Choice: 1<br>
- 
 Enter page no between 1to10: 1<br><br>
 
  1. Insert<br>
@@ -52,11 +49,11 @@ Enter page no between 1to10: 1<br><br>
 |ccc|3|1|
 |aaa|1|2|
 
+<br>
  1. Insert<br>
  2. Show<br>
  3. Exit<br>
  Enter Your Choice: 1<br><br>
-
 Enter page no between 1to10: 4<br><br>
 
  1. Insert<br>
@@ -64,12 +61,14 @@ Enter page no between 1to10: 4<br><br>
  3. Exit<br>
  Enter Your Choice: 2<br><br>
 
+<br>
 |Contain|Pageno|Pagecount|
 | --- | --- | --- |
 |ccc|3|1|
 |aaa|1|2|
 |ddd|4|1|
 
+<br>
  1. Insert<br>
  2. Show<br>
  3. Exit<br>
