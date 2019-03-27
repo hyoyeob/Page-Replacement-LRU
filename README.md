@@ -37,14 +37,13 @@ Enter page no between 1to10: 3<br><br>
  1. Insert<br>
  2. Show<br>
  3. Exit<br>
- Enter Your Choice: 1<br><br>
-
+ Enter Your Choice: 1<br>
+ 
 Enter page no between 1to10: 1<br><br>
 
  1. Insert<br>
  2. Show<br>
  3. Exit<br>
-
  Enter Your Choice: 2<br><br>
 
 |Contain|Pageno|Pagecount|
@@ -55,16 +54,14 @@ Enter page no between 1to10: 1<br><br>
 
  1. Insert<br>
  2. Show<br>
- 3. Exit<br><br>
-
+ 3. Exit<br>
  Enter Your Choice: 1<br><br>
 
 Enter page no between 1to10: 4<br><br>
 
  1. Insert<br>
  2. Show<br>
- 3. Exit<br><br>
-
+ 3. Exit<br>
  Enter Your Choice: 2<br><br>
 
 |Contain|Pageno|Pagecount|
@@ -75,6 +72,5 @@ Enter page no between 1to10: 4<br><br>
 
  1. Insert<br>
  2. Show<br>
- 3. Exit<br><br>
-
+ 3. Exit<br>
  Enter Your Choice: 
