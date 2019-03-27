@@ -48,7 +48,6 @@ Enter page no between 1to10: 1<br><br>
  Enter Your Choice: 2<br><br>
 
 |Contain|Pageno|Pagecount|
-
 | --- | --- | --- |
 |bbb|2|1|
 |ccc|3|1|
@@ -68,10 +67,11 @@ Enter page no between 1to10: 4<br><br>
 
  Enter Your Choice: 2<br><br>
 
- Contain  Pageno  Pagecount<br>
- ccc      3       1<br>
- aaa      1       2<br>
- ddd      4       1<br><br>
+|Contain|Pageno|Pagecount|
+| --- | --- | --- |
+|ccc|3|1|
+|aaa|1|2|
+|ddd|4|1|
 
  1. Insert<br>
  2. Show<br>
