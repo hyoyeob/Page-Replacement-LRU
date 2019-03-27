@@ -48,7 +48,8 @@ Enter page no between 1to10: 1<br><br>
  Enter Your Choice: 2<br><br>
 
 |Contain|Pageno|Pagecount|
------------------------
+
+| --- | --- | --- |
 |bbb|2|1|
 |ccc|3|1|
 |aaa|1|2|
