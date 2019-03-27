@@ -70,4 +70,9 @@ Enter page no between 1to10: 4<br><br>
  1. Insert<br>
  2. Show<br>
  3. Exit<br>
- Enter Your Choice: 
+ Enter Your Choice: (process continue)
+ 
+ 
+ 
+ 
+<h4>My code explain link: https://kim-hoya.tistory.com/23</h4>
